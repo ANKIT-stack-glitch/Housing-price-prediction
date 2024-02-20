@@ -37,7 +37,7 @@ The project utilizes Python libraries such as NumPy, Pandas, and Matplotlib for 
 
 ## Dataset
 
-The housing dataset used in this project is available in CSV format and can be found [here](provide_link_to_dataset).
+The housing dataset used in this project is available in CSV format and can be found [here](Housing.csv).
 
 ## Contributing
 
