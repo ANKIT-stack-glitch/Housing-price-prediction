@@ -16,13 +16,14 @@ The project utilizes Python libraries such as NumPy, Pandas, and Matplotlib for 
 ## Usage
 
 1. Clone the repository:
+   ```bash
  git clone https://github.com/ANKIT-stack-glitch
 /housing-price-prediction.git
 
 2. Navigate to the project directory:
    cd housing-price-prediction
 
- 3. Install dependencies:
+3. Install dependencies:
   pip install -r requirements.txt
 
     
